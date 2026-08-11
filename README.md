@@ -13,6 +13,7 @@
 ---
 
 <img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Cybersecurity GIF" />
+
 ## About Me
 
 Software Cybersecurity Engineering student at **ENSIBS (Vannes)**, focused on offensive security, CTF challenges, and security home labs.
