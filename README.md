@@ -12,10 +12,9 @@
 
 ---
 
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cybersecurity GIF" />
 
 ## About Me
-
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cybersecurity GIF" />
 Software Cybersecurity Engineering student at **ENSIBS (Vannes)**, focused on offensive security, CTF challenges, and security home labs.
 
 Primary OS: **Arch Linux** (Host) | Security VMs: **Kali Linux** / **BlackArch**
