@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ayman Belasri
+# BELASRI Ayman
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Cybersecurity+Engineering+Student;CTFs+%7C+Penetration+Testing;Home+Lab+Builder+%7C+Network+Security;CompTIA+Security%2B+%7C+ISO+27001+Associate" alt="Typing SVG" /></a>
 
