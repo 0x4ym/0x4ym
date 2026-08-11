@@ -38,11 +38,10 @@
     <td valign="top">
       <pre><b>ayman</b>@<b>0x4ym</b>
 --------------------------------------
-<b>OS</b>: Arch Linux
 <b>Role</b>: Cybersecurity Engineering Student
 <b>Focus</b>: Offensive Security, Pentesting & CTFs
-<b>Shell</b>: zsh / bash
-<b>WM</b>: Hyprland
+<b>Status</b>: Open for Internships
+<b>Contact</b>: aymanbelasri@proton.me
 
 <b>About</b>:
 I enjoy solving CTF challenges, analyzing web & 
