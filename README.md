@@ -20,7 +20,7 @@ Software Cybersecurity Engineering student at **ENSIBS (Vannes)**, focused on of
 
 Primary OS: **Arch Linux** (Host) | Security VMs: **Kali Linux** / **BlackArch**
 
-I enjoy solving **Capture The Flag ** challenges, analyzing web & network vulnerabilities, and building custom tools and home labs to explore network segmentation and systems security.
+I enjoy solving **Capture The Flag** challenges, analyzing web & network vulnerabilities, and building custom tools and home labs to explore network segmentation and systems security.
 
 <details>
 <summary>En français</summary>
