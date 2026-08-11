@@ -49,7 +49,7 @@ I enjoy solving CTF challenges, analyzing web &
 network vulnerabilities, and building custom tools 
 and home labs.
 
-██████████████████████████████████████</pre>
+<font color="#e06c75">███</font><font color="#98c379">███</font><font color="#e5c07b">███</font><font color="#61afef">███</font><font color="#c678dd">███</font><font color="#56b6c2">███</font><font color="#abb2bf">███</font></pre>
     </td>
   </tr>
 </table>
