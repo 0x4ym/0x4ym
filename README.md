@@ -39,7 +39,7 @@
       <pre><b>ayman</b>@<b>0x4ym</b>
 --------------------------------------
 <b>OS</b>: Arch Linux
-<b>Role</b>: Software Cybersecurity Student
+<b>Role</b>: Cybersecurity Engineering Student
 <b>Focus</b>: Offensive Security, Pentesting & CTFs
 <b>Shell</b>: zsh / bash
 <b>WM</b>: Hyprland
