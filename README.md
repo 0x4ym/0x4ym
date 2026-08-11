@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-belasri/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019fc7dc-927b-70d4-a057-2b95d26283f5)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymanbelasri)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x4ym)
 
 </div>
 
@@ -47,14 +47,6 @@ J'aime résoudre des challenges <b>Capture The Flag (CTF)</b>, analyser les vuln
 
 ---
 
-## 🏴 Platforms
-
-<p>
-  <a href="https://profile.hackthebox.com/profile/019fc7dc-927b-70d4-a057-2b95d26283f5"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
-</p>
-
----
-
 ## 🔬 Featured Projects
 
 <table>
@@ -62,10 +54,10 @@ J'aime résoudre des challenges <b>Capture The Flag (CTF)</b>, analyser les vuln
     <td width="180"><b>Custom Hash Cracker</b></td>
     <td>
       Multithreaded offline hash identification and cracking utility. Built to benchmark and automate credential recovery techniques across common cryptographic algorithms using wordlists and rule-based variations.<br>
-      <sub>Python / C, Cryptography, Password Auditing, Multithreading</sub>
+      <sub>Python , Cryptography, Password Auditing, Multithreading</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/aymanbelasri/hash-cracker">
+      <a href="https://github.com/0x4ym/hash-cracker">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
       </a>
     </td>
@@ -77,19 +69,7 @@ J'aime résoudre des challenges <b>Capture The Flag (CTF)</b>, analyser les vuln
       <sub>pfSense, Wazuh SIEM, OpenLDAP, Windows 11, Networking / VLANs</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/aymanbelasri/soc-lab">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Dotfiles & Workstation Architecture</b></td>
-    <td>
-      Declarative Arch Linux environment utilizing <b>Hyprland</b>, native Lua configurations, custom <b>Waybar</b> modules, and <b>tmux</b> integration. Secured with 1Password SSH Agent commit signing, Btrfs subvolume recovery snapshots, and automated dotfile syncing.<br>
-      <sub>Arch Linux, Hyprland, Lua, Bash, Btrfs, Git</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/aymanbelasri/dotfiles">
+      <a href="https://github.com/0x4ym/soc-lab">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
       </a>
     </td>
@@ -130,12 +110,8 @@ J'aime résoudre des challenges <b>Capture The Flag (CTF)</b>, analyser les vuln
 
 ## 📊 Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=aymanbelasri&theme=dark&hide_border=false)
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymanbelasri/aymanbelasri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymanbelasri/aymanbelasri/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aymanbelasri/aymanbelasri/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x4ym&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x4ym&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
