@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Cybersecurity GIF" />
+<img width="1326" height="494" alt="image" src="https://github.com/user-attachments/assets/7e25d71f-2563-4cc8-8ae5-8445b94b24b6" />
 
 ## About Me
 
