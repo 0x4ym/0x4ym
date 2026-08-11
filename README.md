@@ -37,13 +37,13 @@
     </td>
     <td valign="top">
       <pre><b>ayman</b>@<b>0x4ym</b>
---------------------------------------
-<b>Role</b>: Cybersecurity Engineering Student
-<b>Focus</b>: Offensive Security, Pentesting & CTFs
-<b>Status</b>: Open for Internships
-<b>Contact</b>: aymanbelasri@proton.me
+----------------------------------------
+<b>Role</b>     : Cybersecurity Engineering Student
+<b>Focus</b>    : Offensive Security, Pentesting & CTFs
+<b>Status</b>   : Open for Internships
+<b>Contact</b>  : aymanbelasri@proton.me
 
-<b>About</b>:
+<b>About</b>    : 
 I enjoy solving CTF challenges, analyzing web & 
 network vulnerabilities, and building custom tools 
 and home labs.
