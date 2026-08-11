@@ -14,10 +14,10 @@
 
 ## About Me
 
-<table border="0">
+<table>
   <tr>
-    <td valign="top">
-      <pre>
+    <td valign="top" align="center">
+<pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣴⣦⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⠿⠿⠿⠿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣠⣾⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣶⡀⠀⠀⠀⠀
@@ -29,25 +29,28 @@
 ⠀⣿⣿⣷⠀⠀⠀⠀⠀⠀⣰⣿⣿⠏⠀⠀⢻⣿⣿⡄⠀⠀⠀⠀⠀⠀⣿⣿⡿⠀
 ⠀⢸⣿⣿⡆⠀⠀⠀⠀⣴⣿⡿⠃⠀⠀⠀⠈⢿⣿⣷⣤⣤⡆⠀⠀⣰⣿⣿⠇⠀
 ⠀⠀⢻⣿⣿⣄⠀⠀⠾⠿⠿⠁⠀⠀⠀⠀⠀⠘⣿⣿⡿⠿⠛⠀⣰⣿⣿⡟⠀⠀
-⠀⠀⠀⠻⣿⣿⣧⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏⠀⠀⠀
+⠀⠀⠀⠻⣿⣿⧧⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏⠀⠀⠀
 ⠀⠀⠀⠀⠈⠻⣿⣿⣤⣄⡀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⠟⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠛⠛⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
     </td>
     <td valign="top">
-      Software Cybersecurity Engineering student at <b>ENSIBS (Vannes)</b>, focused on offensive security, CTF challenges, and security home labs.<br><br>
-      Primary OS: <b>Arch Linux</b>
-      I enjoy solving <b>Capture The Flag (CTF)</b> challenges, analyzing web & network vulnerabilities, and building custom tools and home labs to explore network segmentation and systems security.<br><br>
-      <details>
-      <summary>En français</summary>
-      <br>
-      Élève-ingénieur en <b>Cybersécurité du Logiciel à l'ENSIBS (Vannes)</b>. Passionné par l'offensif, les CTFs et la création de projets et laboratoires virtuels.
-      <br><br>
-      OS Principal : <b>Arch Linux</b> | VMs de Sécurité : <b>Kali Linux / BlackArch</b>
-      <br><br>
-      J'aime résoudre des challenges <b>Capture The Flag (CTF)</b>, analyser les vulnérabilités et concevoir mes propres outils ainsi que des labs virtuels.
-      </details>
+      <pre><b>ayman</b>@<b>ENSIBS</b>
+--------------------------------------
+<b>OS</b>: Arch Linux
+<b>Role</b>: Software Cybersecurity Student
+<b>Focus</b>: Offensive Security, Pentesting & CTFs
+<b>Lab</b>: Home Network & SOC (pfSense, Wazuh)
+<b>Shell</b>: zsh / bash
+<b>WM</b>: Hyprland
+
+<b>About</b>:
+I enjoy solving CTF challenges, analyzing web & 
+network vulnerabilities, and building custom tools 
+and home labs to explore network segmentation.
+
+██████████████████████████████████████</pre>
     </td>
   </tr>
 </table>
