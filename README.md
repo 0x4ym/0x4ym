@@ -36,19 +36,18 @@
 </pre>
     </td>
     <td valign="top">
-      <pre><b>ayman</b>@<b>ENSIBS</b>
+      <pre><b>ayman</b>@<b>0x4ym</b>
 --------------------------------------
 <b>OS</b>: Arch Linux
 <b>Role</b>: Software Cybersecurity Student
 <b>Focus</b>: Offensive Security, Pentesting & CTFs
-<b>Lab</b>: Home Network & SOC (pfSense, Wazuh)
 <b>Shell</b>: zsh / bash
 <b>WM</b>: Hyprland
 
 <b>About</b>:
 I enjoy solving CTF challenges, analyzing web & 
 network vulnerabilities, and building custom tools 
-and home labs to explore network segmentation.
+and home labs.
 
 ██████████████████████████████████████</pre>
     </td>
