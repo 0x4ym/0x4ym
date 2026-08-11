@@ -111,7 +111,8 @@ J'aime résoudre des challenges <b>Capture The Flag (CTF)</b>, analyser les vuln
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x4ym&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x4ym&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x4ym&show_icons=true&theme=tokyonight&rank_icon=github" alt="Ayman's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x4ym&theme=tokyonight" alt="GitHub Streak" />
 </p>
