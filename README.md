@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqYWlxODdyaTJlZHd0NmIyemEzZmN2OXhkcTVtamFvYnJ3MmFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Cybersecurity" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Cybersecurity GIF" />
 
 ## About Me
 
