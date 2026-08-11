@@ -40,13 +40,11 @@ J'aime résoudre des challenges <b>Capture The Flag (CTF)</b>, analyser les vuln
 
 | Certification | Issuer | Issued | Status / Credential |
 |---|---|---|---|
-| **CompTIA Security+ ce** | CompTIA | Jul 2026 | 🟢 Certified (Exp. Jul 2029) |
+| **CompTIA Security+ ce** | CompTIA | Jul 2026 | 🟢 Certified (Exp. Jul 2029) · [Verify Credly](https://www.credly.com/badges/b5e00234-4f01-429b-80c4-6478567540ba/linked_in_profile) |
 | **ISO/IEC 27001 Information Security Associate™** | SkillFront | Aug 2026 | 🟢 Certified · [Verify Badge](https://www.skillfront.com/Badges/02116533130754) |
 | **Google Cybersecurity Professional Certificate V2** | Coursera / Google | Aug 2025 | 🟢 Certified · [Verify Certificate](https://coursera.org/share/caca833bf53376af7b876b17d71697e0) |
 | **HTB Certified Penetration Testing Specialist (CPTS)** | Hack The Box | - | 🎯 Planned / Preparing |
-
----
-
+| **CompTIA Cybersecurity Analyst (CySA+)** | CompTIA | - | 🎯 Planned / Preparing |
 ## 🔬 Featured Projects
 
 <table>
