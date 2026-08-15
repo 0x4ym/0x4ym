@@ -119,7 +119,7 @@ and home labs.
 | **Offensive & Web Security** | Burp Suite, Nmap, Gobuster, SQLmap, Hydra, Metasploit, John the Ripper, Hashcat, Netcat |
 | **Network & SIEM Analysis** | Wireshark, pfSense, Wazuh SIEM, OpenLDAP, VLAN Traffic Analysis |
 | **Operating Systems** | Arch Linux (Host), Kali Linux & BlackArch (VMs), Debian/Ubuntu, Windows 11 |
-| **Scripting & Automation** | Python 3, Bash / Shell Scripting, Lua, Git (1Password SSH Agent) |
+| **Scripting & Automation** | Python , Bash / Shell Scripting, Java |
 
 </details>
 
